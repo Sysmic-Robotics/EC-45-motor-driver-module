@@ -1,0 +1,233 @@
+Removed Pin From Net: NetName=+24V Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=+24V Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=+24V Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=+24V Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=+24V Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=+24V Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=+24V Pin=C66-1
+Removed Pin From Net: NetName=GND Pin=C66-2
+Removed Pin From Net: NetName=+24V Pin=C67-2
+Removed Pin From Net: NetName=GND Pin=C69-2
+Removed Pin From Net: NetName=GND Pin=C70-1
+Removed Pin From Net: NetName=GND Pin=C71-1
+Removed Pin From Net: NetName=+5V Pin=C72-1
+Removed Pin From Net: NetName=GND Pin=C72-2
+Removed Pin From Net: NetName=GND Pin=C73-1
+Removed Pin From Net: NetName=+5V Pin=C73-2
+Removed Pin From Net: NetName=+5V Pin=C74-1
+Removed Pin From Net: NetName=GND Pin=C74-2
+Removed Pin From Net: NetName=GND Pin=C75-1
+Removed Pin From Net: NetName=+5V Pin=C75-2
+Removed Pin From Net: NetName=+5V Pin=C76-1
+Removed Pin From Net: NetName=GND Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C77-1
+Removed Pin From Net: NetName=+5V Pin=C77-2
+Removed Pin From Net: NetName=+5V Pin=C78-1
+Removed Pin From Net: NetName=GND Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=+5V Pin=C79-2
+Removed Pin From Net: NetName=+5V Pin=C80-1
+Removed Pin From Net: NetName=GND Pin=C80-2
+Removed Pin From Net: NetName=GND Pin=C81-1
+Removed Pin From Net: NetName=+5V Pin=C81-2
+Removed Pin From Net: NetName=GND Pin=C84-1
+Removed Pin From Net: NetName=+24V Pin=C84-2
+Removed Pin From Net: NetName=GND Pin=C85-1
+Removed Pin From Net: NetName=+24V Pin=C85-2
+Removed Pin From Net: NetName=GND Pin=C86-1
+Removed Pin From Net: NetName=+24V Pin=C86-2
+Removed Pin From Net: NetName=GND Pin=C87-1
+Removed Pin From Net: NetName=+24V Pin=C87-2
+Removed Pin From Net: NetName=+24V Pin=D3-1
+Removed Pin From Net: NetName=+24V Pin=D5-1
+Removed Pin From Net: NetName=+24V Pin=D7-1
+Removed Pin From Net: NetName=+24V Pin=D10-1
+Removed Pin From Net: NetName=+3V3 Pin=DSW1-2
+Removed Pin From Net: NetName=+3V3 Pin=DSW1-4
+Removed Pin From Net: NetName=+3V3 Pin=DSW1-6
+Removed Pin From Net: NetName=+3V3 Pin=DSW1-8
+Removed Pin From Net: NetName=+3V3 Pin=DSW1-10
+Removed Pin From Net: NetName=+3V3 Pin=DSW1-12
+Removed Pin From Net: NetName=+24V Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Pin From Net: NetName=GND Pin=JP2-2
+Removed Pin From Net: NetName=GND Pin=JP3-2
+Removed Pin From Net: NetName=+5V Pin=JP4-1
+Removed Pin From Net: NetName=+3V3 Pin=JP4-2
+Removed Pin From Net: NetName=GND Pin=JP4-4
+Removed Pin From Net: NetName=+3V3 Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP5-3
+Removed Pin From Net: NetName=+5V Pin=JP6-1
+Removed Pin From Net: NetName=GND Pin=JP6-6
+Removed Pin From Net: NetName=GND Pin=JP7-5
+Removed Pin From Net: NetName=GND Pin=JP7-6
+Removed Pin From Net: NetName=+3V3 Pin=JP7-7
+Removed Pin From Net: NetName=+5V Pin=JP7-8
+Removed Pin From Net: NetName=GND Pin=JP8-5
+Removed Pin From Net: NetName=GND Pin=JP8-6
+Removed Pin From Net: NetName=+5V Pin=JP8-11
+Removed Pin From Net: NetName=GND Pin=JST2-7
+Removed Pin From Net: NetName=GND Pin=JST2-8
+Removed Pin From Net: NetName=+5V Pin=JST2-9
+Removed Pin From Net: NetName=+5V Pin=JST2-10
+Removed Pin From Net: NetName=+5V Pin=JST2-15
+Removed Pin From Net: NetName=GND Pin=JST2-16
+Removed Pin From Net: NetName=GND Pin=JST3-7
+Removed Pin From Net: NetName=GND Pin=JST3-8
+Removed Pin From Net: NetName=+5V Pin=JST3-9
+Removed Pin From Net: NetName=+5V Pin=JST3-10
+Removed Pin From Net: NetName=+5V Pin=JST3-15
+Removed Pin From Net: NetName=GND Pin=JST3-16
+Removed Pin From Net: NetName=GND Pin=JST4-7
+Removed Pin From Net: NetName=GND Pin=JST4-8
+Removed Pin From Net: NetName=+5V Pin=JST4-9
+Removed Pin From Net: NetName=+5V Pin=JST4-10
+Removed Pin From Net: NetName=+5V Pin=JST4-15
+Removed Pin From Net: NetName=GND Pin=JST4-16
+Removed Pin From Net: NetName=GND Pin=JST5-7
+Removed Pin From Net: NetName=GND Pin=JST5-8
+Removed Pin From Net: NetName=+5V Pin=JST5-9
+Removed Pin From Net: NetName=+5V Pin=JST5-10
+Removed Pin From Net: NetName=+5V Pin=JST5-15
+Removed Pin From Net: NetName=GND Pin=JST5-16
+Removed Pin From Net: NetName=+3V3 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=+5V Pin=R22-1
+Removed Pin From Net: NetName=+5V Pin=R23-1
+Removed Pin From Net: NetName=+5V Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=+3V3 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=+5V Pin=R33-1
+Removed Pin From Net: NetName=+5V Pin=R34-1
+Removed Pin From Net: NetName=+5V Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=+3V3 Pin=R40-2
+Removed Pin From Net: NetName=GND Pin=R41-1
+Removed Pin From Net: NetName=GND Pin=R42-1
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=+5V Pin=R44-1
+Removed Pin From Net: NetName=+5V Pin=R45-1
+Removed Pin From Net: NetName=+5V Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=+3V3 Pin=R54-2
+Removed Pin From Net: NetName=GND Pin=R55-1
+Removed Pin From Net: NetName=GND Pin=R56-1
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=+5V Pin=R58-1
+Removed Pin From Net: NetName=+5V Pin=R59-1
+Removed Pin From Net: NetName=+5V Pin=R60-1
+Removed Pin From Net: NetName=GND Pin=R61-1
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Pin From Net: NetName=+3V3 Pin=R63-1
+Removed Pin From Net: NetName=+3V3 Pin=R64-1
+Removed Pin From Net: NetName=+3V3 Pin=R65-1
+Removed Pin From Net: NetName=+3V3 Pin=R66-1
+Removed Pin From Net: NetName=+3V3 Pin=R69-1
+Removed Pin From Net: NetName=+3V3 Pin=R70-1
+Removed Pin From Net: NetName=GND Pin=R71-1
+Removed Pin From Net: NetName=GND Pin=R72-1
+Removed Pin From Net: NetName=GND Pin=R73-1
+Removed Pin From Net: NetName=GND Pin=R74-1
+Removed Pin From Net: NetName=GND Pin=R75-1
+Removed Pin From Net: NetName=GND Pin=R76-1
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=+24V Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=GND Pin=U3-19
+Removed Pin From Net: NetName=+24V Pin=U3-33
+Removed Pin From Net: NetName=GND Pin=U3-36
+Removed Pin From Net: NetName=GND Pin=U3-37
+Removed Pin From Net: NetName=GND Pin=U3-37
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=+24V Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U4-18
+Removed Pin From Net: NetName=GND Pin=U4-19
+Removed Pin From Net: NetName=+24V Pin=U4-33
+Removed Pin From Net: NetName=GND Pin=U4-36
+Removed Pin From Net: NetName=GND Pin=U4-37
+Removed Pin From Net: NetName=GND Pin=U4-37
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=+24V Pin=U5-4
+Removed Pin From Net: NetName=GND Pin=U5-18
+Removed Pin From Net: NetName=GND Pin=U5-19
+Removed Pin From Net: NetName=+24V Pin=U5-33
+Removed Pin From Net: NetName=GND Pin=U5-36
+Removed Pin From Net: NetName=GND Pin=U5-37
+Removed Pin From Net: NetName=GND Pin=U5-37
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=+24V Pin=U8-4
+Removed Pin From Net: NetName=GND Pin=U8-18
+Removed Pin From Net: NetName=GND Pin=U8-19
+Removed Pin From Net: NetName=+24V Pin=U8-33
+Removed Pin From Net: NetName=GND Pin=U8-36
+Removed Pin From Net: NetName=GND Pin=U8-37
+Removed Pin From Net: NetName=GND Pin=U8-37
+Change Component Footprint: Designator=JP1 Old Footprint=TB02 New Footprint=HEADER90_06X2
+Change Component Comment : Designator=JP1 Old Comment=691313710002 New Comment=Header90 12POS
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "TB02"; UniqueID = "\ENJWDCRR" ("\ENJWDCRR")
+Change component parameters (AddParameter): Name = "Mfr 1"; Value = "Wurth Electronics Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr 1 PN"; Value = "61301221021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notes"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "Mfr 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr 1 PN"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notes"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "Mfr 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr 1 PN"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notes"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=+24V Pin=JP1-2
+Added Pin To Net: NetName=+5V Pin=JP1-4
+Added Pin To Net: NetName=+3V3 Pin=JP1-6
+Added Pin To Net: NetName=NetJP1_5 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_5 Pin=JST1-14
+Added Net: Name=NetJP1_5
+Added Pin To Net: NetName=NetJP1_7 Pin=JP1-7
+Added Pin To Net: NetName=NetJP1_7 Pin=JST1-13
+Added Net: Name=NetJP1_7
+Added Pin To Net: NetName=NetJP1_8 Pin=JP1-8
+Added Pin To Net: NetName=NetJP1_8 Pin=U2-28
+Added Net: Name=NetJP1_8
+Added Pin To Net: NetName=NetJP1_9 Pin=JP1-9
+Added Pin To Net: NetName=NetJP1_9 Pin=U2-26
+Added Net: Name=NetJP1_9
+Added Pin To Net: NetName=NetJP1_10 Pin=JP1-10
+Added Net: Name=NetJP1_10
+Added Pin To Net: NetName=NetJP1_11 Pin=JP1-11
+Added Pin To Net: NetName=NetJP1_11 Pin=U2-29
+Added Net: Name=NetJP1_11
+Added Pin To Net: NetName=NetJP1_12 Pin=JP1-12
+Added Pin To Net: NetName=NetJP1_12 Pin=R6-2
+Added Net: Name=NetJP1_12
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-22
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=[2]Driver1 Member=Component C1 100nF
+Added Member To Class: ClassName=[2]Driver1 Member=Component C2 100nF
+Added Member To Class: ClassName=[2]Driver1 Member=Component JP1 Header90 12POS
+Added Member To Class: ClassName=[2]Driver1 Member=Component JST1 16P
